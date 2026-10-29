@@ -1,0 +1,143 @@
+[
+  {
+    "stage": "resting",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": true,
+    "actions": false
+  },
+  {
+    "stage": "dark",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": false,
+    "actions": true
+  },
+  {
+    "stage": "hover",
+    "icons": [],
+    "time": true,
+    "pinned": false,
+    "actions": true
+  },
+  {
+    "stage": "pointer-left",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": false,
+    "actions": false
+  },
+  {
+    "stage": "clicked-current-row",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": false,
+    "actions": true
+  },
+  {
+    "stage": "focus",
+    "icons": [],
+    "time": false,
+    "pinned": false,
+    "actions": true
+  },
+  {
+    "stage": "menu-open",
+    "icons": [],
+    "time": false,
+    "pinned": false,
+    "actions": true
+  },
+  {
+    "stage": "blur",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": false,
+    "actions": false
+  },
+  {
+    "stage": "narrow",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": false,
+    "actions": false
+  },
+  {
+    "stage": "touch",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": false,
+    "pinned": true,
+    "actions": true
+  },
+  {
+    "stage": "touch-menu-open",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": false,
+    "pinned": true,
+    "actions": true
+  },
+  {
+    "stage": "touch-menu-closed",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": false,
+    "pinned": false,
+    "actions": false
+  },
+  {
+    "stage": "touch-pinned",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": false,
+    "pinned": true,
+    "actions": false
+  },
+  {
+    "stage": "clicked-archived-row",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": true,
+    "actions": false
+  },
+  {
+    "stage": "touch-unarchived",
+    "icons": [
+      "Fixture badge",
+      "Fixture section"
+    ],
+    "time": true,
+    "pinned": true,
+    "actions": true
+  }
+]

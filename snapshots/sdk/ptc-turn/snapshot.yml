@@ -1,0 +1,7 @@
+version: 2
+scenario: ptc-turn
+profile: sdk
+composition: ptc
+recording: live
+header:
+  class: ptc

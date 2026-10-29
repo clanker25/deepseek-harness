@@ -1,0 +1,9 @@
+version: 2
+scenario: permission-policy-context
+profile: web
+composition: web-default
+recording: live
+header:
+  class: web-default
+workspace:
+  final: false

@@ -1,0 +1,9 @@
+version: 2
+scenario: lifecycle-chrome
+profile: web
+composition: web-default
+recording: live
+header:
+  class: web-default
+replay:
+  override: false

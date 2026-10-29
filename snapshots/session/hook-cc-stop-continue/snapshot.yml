@@ -1,0 +1,9 @@
+version: 2
+scenario: hook-cc-stop-continue
+profile: headless
+composition: default
+recording: live
+header:
+  class: default
+workspace:
+  final: true

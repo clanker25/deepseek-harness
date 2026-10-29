@@ -1,0 +1,8 @@
+version: 0
+scenario: ptc-round
+profile: web
+composition: web-ptc
+recording: live
+header:
+  class: web-ptc
+  pin: true
