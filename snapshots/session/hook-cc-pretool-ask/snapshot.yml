@@ -1,0 +1,7 @@
+version: 0
+scenario: hook-cc-pretool-ask
+profile: headless
+composition: default
+recording: live
+header:
+  class: default

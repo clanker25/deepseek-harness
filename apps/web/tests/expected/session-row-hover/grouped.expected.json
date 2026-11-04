@@ -1,0 +1,52 @@
+[
+  {
+    "stage": "first-before-dwell",
+    "first": true,
+    "second": false
+  },
+  {
+    "stage": "first-shown",
+    "first": false,
+    "second": false
+  },
+  {
+    "stage": "second-instant",
+    "first": true,
+    "second": true
+  },
+  {
+    "stage": "first-instant",
+    "first": false,
+    "second": true
+  },
+  {
+    "stage": "readable-portal",
+    "first": true,
+    "second": false
+  },
+  {
+    "stage": "copied-portal",
+    "first": true,
+    "second": false
+  },
+  {
+    "stage": "portal-return-instant",
+    "first": false,
+    "second": true
+  },
+  {
+    "stage": "outside-cooled",
+    "first": false,
+    "second": true
+  },
+  {
+    "stage": "list-reentry-before-dwell",
+    "first": false,
+    "second": true
+  },
+  {
+    "stage": "list-reentry-shown",
+    "first": false,
+    "second": false
+  }
+]

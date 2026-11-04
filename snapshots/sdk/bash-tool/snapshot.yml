@@ -1,0 +1,8 @@
+version: 0
+scenario: bash-tool
+profile: sdk
+composition: sdk-default
+recording: live
+header:
+  class: sdk-default
+  pin: false

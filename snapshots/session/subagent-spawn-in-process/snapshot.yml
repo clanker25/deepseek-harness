@@ -1,0 +1,7 @@
+version: 2
+scenario: subagent-spawn-in-process
+profile: headless
+composition: default
+recording: live
+header:
+  class: default

@@ -1,0 +1,5 @@
+[
+  { "initiallyVisible": true, "childWindows": 0, "controlKeepsFocus": false, "viewsReleased": true, "input": { "revision": 2, "blocked": false } },
+  { "initiallyVisible": true, "childWindows": 0, "controlKeepsFocus": true, "viewsReleased": true, "input": { "revision": 2, "blocked": false } },
+  { "parentDestroyed": true, "overlayDestroyed": true }
+]

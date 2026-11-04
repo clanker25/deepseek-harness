@@ -1,0 +1,7 @@
+version: 2
+scenario: web-search-round
+profile: web
+composition: web-default
+recording: live
+header:
+  class: web-default

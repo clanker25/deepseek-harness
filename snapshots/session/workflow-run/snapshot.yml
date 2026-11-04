@@ -1,0 +1,7 @@
+version: 2
+scenario: workflow-run
+profile: headless
+composition: default
+recording: live
+header:
+  class: default
