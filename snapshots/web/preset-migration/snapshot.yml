@@ -1,0 +1,10 @@
+version: 1
+scenario: preset-migration
+profile: web
+composition: web-default
+recording: authored
+sessionFormat:
+  version: 1
+  coverage: [adjacent-migration]
+header:
+  class: web-default

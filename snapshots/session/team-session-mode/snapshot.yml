@@ -1,0 +1,10 @@
+version: 1
+scenario: team-session-mode
+profile: headless
+composition: team-session-mode
+recording: authored
+header:
+  class: team-session-mode
+  pin: true
+  changes: 3
+  promptChanges: 2

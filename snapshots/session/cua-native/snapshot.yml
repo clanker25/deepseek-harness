@@ -1,0 +1,12 @@
+version: 2
+scenario: cua-native
+profile: headless
+composition: cua-native
+recording: authored
+header:
+  class: cua-native
+  pin: false
+replay:
+  override: true
+platform: posix
+permission: danger-full-access

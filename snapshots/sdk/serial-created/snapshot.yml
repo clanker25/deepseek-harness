@@ -1,0 +1,10 @@
+version: 2
+scenario: serial-created
+profile: sdk
+composition: sdk-serial-created
+recording: authored
+header:
+  class: sdk-serial-created
+  pin: false
+  systemPromptSource: text-turn
+  toolSchemasSource: session/text-turn

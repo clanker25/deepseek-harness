@@ -1,0 +1,7 @@
+version: 0
+scenario: subagent-mixed
+profile: sdk
+composition: default
+recording: live
+header:
+  class: default
