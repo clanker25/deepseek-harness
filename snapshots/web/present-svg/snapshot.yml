@@ -1,0 +1,9 @@
+version: 0
+scenario: present-svg
+profile: web
+composition: web-default
+recording: live
+header:
+  class: web-default
+workspace:
+  final: true

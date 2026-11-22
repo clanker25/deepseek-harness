@@ -1,0 +1,9 @@
+version: 2
+scenario: toolcall-unused-args
+profile: headless
+composition: default
+recording: authored
+header:
+  class: default
+replay:
+  override: true

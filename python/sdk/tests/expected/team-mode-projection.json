@@ -1,0 +1,48 @@
+{
+  "finalResponse": "TEAM_MODE_OK",
+  "auditEvents": [
+    {
+      "type": "team/mode",
+      "seq": 2,
+      "time": 0,
+      "data": {
+        "enabled": true
+      }
+    },
+    {
+      "type": "team/mode",
+      "seq": 4,
+      "time": 0,
+      "data": {
+        "enabled": true
+      }
+    }
+  ],
+  "auditNotifications": [
+    {
+      "method": "session.event",
+      "event": {
+        "type": "team/mode",
+        "seq": 3,
+        "time": 0,
+        "data": {
+          "enabled": true
+        }
+      }
+    },
+    {
+      "method": "session.event",
+      "event": {
+        "type": "team/mode",
+        "seq": 3,
+        "time": 0,
+        "data": {
+          "enabled": false
+        }
+      }
+    }
+  ],
+  "assistantTexts": [
+    "TEAM_MODE_OK"
+  ]
+}

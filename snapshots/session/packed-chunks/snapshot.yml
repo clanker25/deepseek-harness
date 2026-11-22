@@ -1,0 +1,10 @@
+version: 1
+scenario: packed-chunks
+profile: headless
+composition: default
+recording: authored
+sessionFormat:
+  version: 1
+  coverage: [packed-row]
+header:
+  class: default

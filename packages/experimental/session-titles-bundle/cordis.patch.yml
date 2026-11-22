@@ -1,0 +1,12 @@
+- id: session-title-llm
+  disabled: true
+
+- insert:
+    - id: optional-session-title-all-prompts
+      name: '@deepseek-ai/dsh-session-title-all-prompts-llm'
+      config:
+        targetWords: 4
+        targetCjkCharacters: 10
+        maxInputBytes: 2048
+        maxOutputTokens: 32
+        timeoutMs: 60000

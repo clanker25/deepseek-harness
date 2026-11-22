@@ -1,0 +1,9 @@
+version: 2
+scenario: mcp-tool-loading
+profile: headless
+composition: mcp-tool-loading
+recording: authored
+header:
+  class: mcp-tool-loading
+  pin: false
+  changes: 1
